@@ -1,0 +1,12 @@
+appname: contestbot
+
+db:
+  name:     " "
+  user:     " "
+  password: " "
+  host:     " "
+  port:     "3306"
+  drop:     false
+
+bot:
+  token: " "
